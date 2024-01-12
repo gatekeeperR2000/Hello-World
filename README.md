@@ -1,20 +1,16 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a basic Hello World? program to check that my IDE and GitHub software are set up correctly. It will put the words "Hello World!" to the screen if Python has been installed on the device.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Found below is a video demonstration. this video serves a similar purpose of making sure that videos and links will work for future projects.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+For this project I set up Visual Studio Code as my IDE. This includes getting the Python and Pylance extensions and downloading Python onto my device. I also had to download and set up GitHub and Git.
 
-{Describe the programming language that you used}
+For this project I used on of the first languages I ever learned Python. It is a simpler language for newer programmers to learn, with syntax that is closer to English. For this project to set things up and create a baseline I felt that Python would serve a decent job to accomplish my goals.
 
 # Useful Websites
 
